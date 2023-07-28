@@ -67,7 +67,7 @@ We presented the problem we aimed to solve with Doc Buddy and outlined our propo
 Armed with our prototype, we eagerly sought feedback from judges and potential users in Round 2 of the Google Cloud Dev Jam Hackathon 2020. This crucial phase provided us with invaluable insights that propelled our product, DocBuddy, to new heights.
 Throughout this round, we maintained regular communication with the Google Team, benefiting from their guidance and resources. An exciting perk was gaining access to the alpha version of [Google Chat](https://mail.google.com/chat/), allowing us to enhance collaboration and explore cutting-edge tools.
 
-A recurring concern was the resemblance of DocBuddy to an existing platform, **Practo**. To set ourselves apart, we brainstormed innovative ideas to distinguish our product significantly. As a result, we introduced a game-changing feature – **the ability to upload medicine bills and prescriptions to set medication reminders using Vision AI**. This enhancement empowered users to seamlessly manage their medication schedules, ensuring timely and accurate dosages.
+A recurring concern was the resemblance of DocBuddy to an existing platform, [**Practo**](https://www.practo.com/). To set ourselves apart, we brainstormed innovative ideas to distinguish our product significantly. As a result, we introduced a game-changing feature – **the ability to upload medicine bills and prescriptions to set medication reminders using Vision AI**. This enhancement empowered users to seamlessly manage their medication schedules, ensuring timely and accurate dosages.
 
 ### Round 3: Final Presentation & Prototype
 
@@ -122,7 +122,7 @@ While we didn't win the Hackathon. At the end of the program. I was in **19th po
 
 Apart from learning, I meet some Awesome developers and mentors.
 
-![🎁 Received Swags from Google Cloud](/images/blogs/google-cloud-devjam-hackathon/goodies.jpeg)
+![🎁 Received Swags from Google Cloud](https://souravdey.space/images/blogs/google-cloud-devjam-hackathon/goodies.jpeg)
 
 Links to LinkedIn posts of all the achievements:
 
