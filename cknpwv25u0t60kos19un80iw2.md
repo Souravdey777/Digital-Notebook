@@ -1,4 +1,13 @@
-## 🎨 Moving Gradient animation with CSS
+---
+title: "Moving Gradient animation with CSS 🎨"
+datePublished: Tue Apr 20 2021 10:55:26 GMT+0000 (Coordinated Universal Time)
+cuid: cknpwv25u0t60kos19un80iw2
+slug: moving-gradient-animation-with-css
+canonical: https://souravdey.space/blogs/moving-gradient-animation-with-css
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618916032680/207Gh-MAd.jpeg
+tags: css, design, web-development, animation, html5
+
+---
 
 Simple animations can bring a huge difference to your websites.
 Let's build something simple and unique.
