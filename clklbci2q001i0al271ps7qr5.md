@@ -67,7 +67,7 @@ We presented the problem we aimed to solve with Doc Buddy and outlined our propo
 Armed with our prototype, we eagerly sought feedback from judges and potential users in Round 2 of the Google Cloud Dev Jam Hackathon 2020. This crucial phase provided us with invaluable insights that propelled our product, DocBuddy, to new heights.
 Throughout this round, we maintained regular communication with the Google Team, benefiting from their guidance and resources. An exciting perk was gaining access to the alpha version of [Google Chat](https://mail.google.com/chat/), allowing us to enhance collaboration and explore cutting-edge tools.
 
-A recurring concern was the resemblance of DocBuddy to an existing platform, **Practo**. To set ourselves apart, we brainstormed innovative ideas to distinguish our product significantly. As a result, we introduced a game-changing feature – **the ability to upload medicine bills and prescriptions to set medication reminders  using Vision AI**. This enhancement empowered users to seamlessly manage their medication schedules, ensuring timely and accurate dosages.
+A recurring concern was the resemblance of DocBuddy to an existing platform, **Practo**. To set ourselves apart, we brainstormed innovative ideas to distinguish our product significantly. As a result, we introduced a game-changing feature – **the ability to upload medicine bills and prescriptions to set medication reminders using Vision AI**. This enhancement empowered users to seamlessly manage their medication schedules, ensuring timely and accurate dosages.
 
 ### Round 3: Final Presentation & Prototype
 
@@ -75,10 +75,10 @@ We made it to the final among the top 6 finalists in India.
 
 In the final round, we submitted the below presentation with access to the repos and Google Cloud project
 
-Github Repos.:
-- [Doc-Buddy FE](https://github.com/Souravdey777/Doc-Buddy)
-- [Doc-Buddy BE](https://github.com/Souravdey777/Doc-Buddy-CloudFunctions)
+**GitHub Repos.:**
 
+- [**Doc-Buddy Front-End**](https://github.com/Souravdey777/Doc-Buddy)
+- [**Doc-Buddy Back-End**](https://github.com/Souravdey777/Doc-Buddy-CloudFunctions)
 
 ## The Presentation
 
@@ -117,3 +117,20 @@ Github Repos.:
 ## Learning
 
 While we didn't win the Hackathon. At the end of the program. I was in **19th position on the leaderboard out of 89000+** people. That was a great outcome. Plus, It was fun and a good learning experience.
+
+## Achievements
+
+Apart from learning, I meet some Awesome developers and mentors.
+
+![🎁 Received Swags from Google Cloud](/images/blogs/google-cloud-devjam-hackathon/goodies.jpeg)
+
+Links to LinkedIn posts of all the achievements:
+
+- [TechGig: 6th rank in Application Development GCP](https://www.linkedin.com/posts/souravdey777_gcp-cloud-googlecloudplatform-activity-6686240017930620928-ZGBs?utm_source=share&utm_medium=member_desktop)
+- [Qwiklabs: Cloud Hero](https://www.linkedin.com/posts/souravdey777_googlecloudnext-google-googlecloudplatform-activity-6691568878318870528-PwgV?utm_source=share&utm_medium=member_desktop)
+- [Qwiklabs Quest: Google Cloud Essential Quest and Google Cloud's Operations Suite Quest.](https://www.linkedin.com/posts/souravdey777_techgig-lockdownlearning-googlecloud-activity-6692142778564132864-LZqZ?utm_source=share&utm_medium=member_desktop)
+- [Qwiklabs Quest: Building websites in Google Cloud](https://www.linkedin.com/posts/souravdey777_googleskillbadge-googlecloud-cloudjourney-activity-6693597992928321536-0w8Z?utm_source=share&utm_medium=member_desktop)
+- [TechGig: Winner in Google Cloud Dve Jam Round 1](https://www.linkedin.com/posts/souravdey777_cloud-clouddevjam-googlecloudplatform-activity-6706265253459615745-_B0f?utm_source=share&utm_medium=member_desktop)
+- [TechGig: 5th rank in Architecting with GKE](https://www.linkedin.com/posts/souravdey777_clouddevjam-googlecloudplatform-cloudlearning-activity-6709531827612246016-fb9U?utm_source=share&utm_medium=member_desktop)
+- [1st Box of Goodies](https://www.linkedin.com/posts/souravdey777_clouddevjam-googlecloud-clouds-activity-6742765784059187200-rVk4?utm_source=share&utm_medium=member_desktop)
+- [2nd Box of Goodies](https://www.linkedin.com/posts/souravdey777_cloud-googlecloudplatform-gcp-activity-6754625125615755264-0YGX?utm_source=share&utm_medium=member_desktop)
