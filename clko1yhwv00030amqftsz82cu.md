@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Simple Portfolio with Github Readme ✨"
+title: "How to Create a Simple Portfolio with Github Readme ⚡️"
 datePublished: Fri Jul 24 2020 13:29:54 GMT+0000 (Coordinated Universal Time)
 cuid: clko1yhwv00030amqftsz82cu
 slug: how-to-create-a-simple-portfolio-with-github-readme
