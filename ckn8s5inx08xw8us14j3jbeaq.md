@@ -1,8 +1,8 @@
 ---
-title: "⚡ Creating your own npm package"
+title: "Creating your npm package ⚡"
 datePublished: Thu Apr 08 2021 11:11:31 GMT+0000 (Coordinated Universal Time)
 cuid: ckn8s5inx08xw8us14j3jbeaq
-slug: creating-your-own-npm-package
+slug: creating-your-npm-package
 canonical: https://souravdey.space/blogs/creating-your-own-npm-package
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618253413643/77m7wj3hZ.jpeg
 tags: javascript, nodejs, npm, codenewbies, hashnodebootcamp
