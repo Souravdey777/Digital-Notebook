@@ -22,7 +22,7 @@ To keep consistency I am following the Design That I created.
 
 ## Screenshot of the current website.
 
-![screencapture-souravdey-space-2021-04-12-17_09_43.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1618227619221/jd4BLPbZH.png)
+![screencapture-souravdey-space](https://cdn.hashnode.com/res/hashnode/image/upload/v1618227619221/jd4BLPbZH.png)
 
 ## Technical Stack
 
