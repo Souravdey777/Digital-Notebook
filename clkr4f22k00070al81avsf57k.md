@@ -12,7 +12,7 @@ This blog is the 2nd part of my previous blog: [**Portfolio Website Development 
 
 → [Link to the website](https://souravdey-space-fjvgj711m-souravdey777.vercel.app/)
 
-%[https://souravdey.space/images/blogs/portfolio-website-development-part-2/recorded.mp4]
+%[https://souravdey.space/images/blogs/portfolio-website-development-part-2/recorded.mp4] 
 
 > The link mentioned above is the older version of the website. If you are not reading this on my website here is the link for reference: ✨ [souravdey.space](https://souravdey.space)
 
@@ -21,8 +21,11 @@ This blog is the 2nd part of my previous blog: [**Portfolio Website Development 
 ## Section on the website
 
 * /aboutMe
+    
 * /workExperience
+    
 * /techSkills
+    
 * /latestBlogs
     
 
@@ -47,8 +50,8 @@ All the section names are in the camel case. And there is no doubt that it also 
 
 The **/aboutMe** section gives a small brief about me. Here, is the same text mentioned below.
 
-> I am 24 years old **passionate learner** having a keen interest in collaborating to build digital solutions 👨‍💻 that **solve real-world problems** 🌍  
->   
+> I am 24 years old **passionate learner** having a keen interest in collaborating to build digital solutions 👨‍💻 that **solve real-world problems** 🌍
+> 
 > I'm also a **design thinking facilitator** and a **user-centric developer** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of business and society.
 
 ## /workExperience & /techSkills
@@ -64,8 +67,11 @@ The **/latestBlogs** section calls **the Hashnode GraphQL API and fetches the 4 
 ## What is next?
 
 * Move all the blogs to my website and use `.mdx` files for blogs.
+    
 * Add an option for endorsement of each skill.
+    
 * Modify the experience section.
+    
 * Social Presence section needs to be added.
     
 
