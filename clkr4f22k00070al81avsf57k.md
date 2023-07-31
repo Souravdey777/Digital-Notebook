@@ -8,17 +8,17 @@ tags: blogging, javascript, web-development, portfolio, branding
 
 ---
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690824004233/d4fa27f2-12e4-4fd7-b8f1-4bc8311e1ef8.png align="center")
+
 This blog is the 2nd part of my previous blog: [**Portfolio Website Development - Part 1**](https://souravdey.space/blogs/portfolio-website-development-part-1)
 
 → [Link to the website](https://souravdey-space-fjvgj711m-souravdey777.vercel.app/)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690824004233/d4fa27f2-12e4-4fd7-b8f1-4bc8311e1ef8.png align="center")
+> The link mentioned above is the older version of the website. If you are not reading this on my website here is the link for reference: ✨ [souravdey.space](https://souravdey.space)
 
 Check out the video below:
 
 %[https://souravdey.space/images/blogs/portfolio-website-development-part-2/recorded.mp4] 
-
-> The link mentioned above is the older version of the website. If you are not reading this on my website here is the link for reference: ✨ [souravdey.space](https://souravdey.space)
 
 ---
 
