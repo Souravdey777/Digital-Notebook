@@ -12,6 +12,8 @@ This blog is the 2nd part of my previous blog: [**Portfolio Website Development 
 
 → [Link to the website](https://souravdey-space-fjvgj711m-souravdey777.vercel.app/)
 
+Check out the video below: 
+
 %[https://souravdey.space/images/blogs/portfolio-website-development-part-2/recorded.mp4] 
 
 > The link mentioned above is the older version of the website. If you are not reading this on my website here is the link for reference: ✨ [souravdey.space](https://souravdey.space)
