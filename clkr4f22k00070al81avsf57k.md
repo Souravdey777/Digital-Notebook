@@ -12,7 +12,9 @@ This blog is the 2nd part of my previous blog: [**Portfolio Website Development 
 
 → [Link to the website](https://souravdey-space-fjvgj711m-souravdey777.vercel.app/)
 
-Check out the video below: 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690824004233/d4fa27f2-12e4-4fd7-b8f1-4bc8311e1ef8.png align="center")
+
+Check out the video below:
 
 %[https://souravdey.space/images/blogs/portfolio-website-development-part-2/recorded.mp4] 
 
